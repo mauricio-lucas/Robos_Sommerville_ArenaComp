@@ -1,4 +1,4 @@
-<img src="./assets/robos_sommerville.png" alt="ilustracao de dois robôs" min-width="400px" max-width="400px" width="400px" align="center">
+<img src="./assets/robos_sommerville.png" alt="ilustracao de dois robôs" min-width="400px" max-width="800px" width="800px" align="center">
 
 # Robos_Sommerville_ArenaComp
 
