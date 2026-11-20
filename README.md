@@ -1,4 +1,4 @@
-# Robos_EventScore
+# Robos_Sommerville_ArenaComp
 
 Firmware dos dois robôs da gincana universitária:
 
@@ -10,7 +10,7 @@ Documentação do projeto (orçamento, cronograma, riscos): [`plano-execucao.md`
 ## Estrutura
 
 ```
-Robos_EventScore/
+Robos_Sommerville_ArenaComp/
 ├── plano-execucao.md      # plano completo: orçamento, cronograma, riscos
 ├── docs/                  # esquemas do Tinkercad, tabela de pinos, montagem
 ├── cad/                   # STLs da carcaça escolhidos
