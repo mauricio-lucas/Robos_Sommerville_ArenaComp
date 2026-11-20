@@ -1,3 +1,5 @@
+<img src="./assets/robos_sommerville.png" alt="ilustracao de dois robôs" min-width="400px" max-width="400px" width="400px" align="center">
+
 # Robos_Sommerville_ArenaComp
 
 Firmware dos dois robôs da gincana universitária:
@@ -43,7 +45,7 @@ Robos_Sommerville_ArenaComp/
 ## Onde está cada coisa
 
 | Preciso de... | Vá em... |
-|---|---|
+| --- | --- |
 | Orçamento, lista de compras, cronograma | `plano-execucao.md` |
 | Que pino liga em quê | `docs/tabela-pinos.md` e `config.h` de cada robô |
 | Esquema elétrico | `docs/esquema-sumo.md` / `docs/esquema-rampa.md` (prints do Tinkercad) |
